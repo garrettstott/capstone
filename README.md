@@ -59,7 +59,7 @@ Come to a consensus. Make sure you all understand it. IMPORTANT: if you're havin
 
 ## UX
 
-wireframes, color scheme, user flows, etc.
+Wireframes, color scheme, user flows, etc.
 
 ## Check off database structure
 
@@ -86,4 +86,5 @@ Team lead, technical lead, styling lead, etc. Using Trello or some sort of proje
 # LINKS
 Guidelines:
 https://docs.google.com/document/d/1MkHIyCMH7UqThduemqcy4Fx1f4VhuyvhZMUuHjrsuig/edit?usp=sharing
-Shttp://goo.gl/forms/rkIQy8vSH01ty2K53
+Submit Idea
+https://docs.google.com/a/devpointlabs.com/forms/d/e/1FAIpQLSfsR61eZbckc4tyzRb8bPLheo54YP6eglnFDfbG35W3cN_l4A/viewform?c=0&w=1

@@ -1,10 +1,10 @@
-# [fit]CAPSTONE STUFF
+#CAPSTONE STUFF
 <br>
-# [fit]:womans_hat::moyai::womans_hat::moyai:
+#:womans_hat::moyai::womans_hat::moyai:
 
 ---
 
-# [fit]STRUCTURE
+# STRUCTURE
 
 ---
 
@@ -38,7 +38,7 @@
 ---
 
 
-# [fit]TIMELINE:hourglass:
+# TIMELINE:hourglass:
 
 ---
 
@@ -72,7 +72,7 @@
 
 ---
 
-# [fit]FIRST STEPS:point_up:
+# FIRST STEPS:point_up:
 
 ---
 
@@ -104,19 +104,19 @@
 
 ---
 
-# [fit]PRO TIPS :bulb:
+# PRO TIPS :bulb:
 
 ---
 
-# PRO TIPS
+## PRO TIP :bulb:
 - In order to finish on time, you will have to split up features or objectives.  
 - Pair programming can be very helpful depending on the task.  Use your best judgement.  
 - You'll always think you have more time than you do - DON'T PUT STUFF OFF.
 
 ---
 
-# PRO TIPS
-  
+## PRO TIP :bulb:
+
 - Divide your time wisely between lab time projects and your capstone.  Both are beneficial and important to your education.
 - Don't work on personal or outside projects during capstone time.  It's not fair to yourself or your team.
 
@@ -124,5 +124,10 @@
 
 :poop:
 
-^guidelines: https://docs.google.com/document/d/1MkHIyCMH7UqThduemqcy4Fx1f4VhuyvhZMUuHjrsuig/edit?usp=sharing
-^submisisons: http://goo.gl/forms/rkIQy8vSH01ty2K53
+# LINKS
+
+---
+guidelines:
+https://docs.google.com/document/d/1MkHIyCMH7UqThduemqcy4Fx1f4VhuyvhZMUuHjrsuig/edit?usp=sharing
+submisisons: 
+http://goo.gl/forms/rkIQy8vSH01ty2K53

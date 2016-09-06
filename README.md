@@ -1,5 +1,4 @@
 #CAPSTONE STUFF
-<br>
 #:womans_hat::moyai::womans_hat::moyai:
 
 ---
@@ -10,26 +9,25 @@
 
 ## submit ideas before Lab time Thursday
 
-^ everyone must submit something.  use the google form.
+Everyone must submit something.  Use the Google form.
 
 ---
 
 ## pitch ideas to class Thursday
 
-^every student must pitch.  no big presentation, just an explanation of your idea and why people would like it.
+Every student must pitch.  No big presentation, just an explanation of your idea and why people would like it.
 
 ---
-## submit
-## **which ideas** and **who**
-## you would like to work with
+# Submit
+## Which ideas and who you would like to work with.
 
-^make sure to submit a top choice and a second choice. this must be done by wednesday so you have enough time!  if you don't submit anything, we will put you where we think you fit best.
+Make sure to submit a top choice and a second choice. This must be done by Wednesday so you have enough time!  If you don't submit anything, we will put you where we think you fit best.
 
 ---
 
 ## 4-member groups
 
-^ too big and things get hard to manage, people don't do their part.  too small and not enough can get done.
+Too big, and things get hard to manage, people don't do their part.  Too small and not enough can get done.
 
 ---
 
@@ -44,7 +42,7 @@
 
 ## 4 weeks
 
-^ starting today
+Starting today
 
 ---
 
@@ -56,50 +54,50 @@
 
 ---
 
-## break all the things!
+## Break all the things!
 
-^Towards the end of week 10, TAs will break your project so you can fix bugs during the last week.  features should be presentable by that day.
+Towards the end of week 10, TAs will break your project so you can fix bugs during the last week.  Features should be presentable by that day.
 
 ---
 
 ## No new features the last week
 
-^bug fixes from TA breakage, presentation prep, deploys, etc.
+Bug fixes from TA breakage, presentation prep, deploys, etc.
 
 ---
 
-## Launch Day is **Thursday, July 21** :tada:
+## Launch Day is Thursday, October 13th :tada:
 
 ---
 
-# FIRST STEPS:point_up:
+# FIRST STEPS :point_up:
 
 ---
 
-## git workflow
+## Git workflow
 
-^ come to a consensus. make sure you all understand it. V IMPORTANT. if you're having troubles with git at this point, please get help!!!
+Come to a consensus. Make sure you all understand it. IMPORTANT: if you're having troubles with git at this point, please get help!!!
 
 ---
 
 ## MVP concept
 
 ---
-# ux
+# UX
 
-^wireframes, color scheme, user flows, etc.
+wireframes, color scheme, user flows, etc.
 
 ---
 
 ## Check off database structure
 
-^with Dave and/or Jake.
+With Dave and/or Jake.
 
 ---
 
 ## Determine roles
 
-^team lead, technical lead, styling lead, etc. Using trello or some sort of project management system is highly recommended!
+Team lead, technical lead, styling lead, etc. Using Trello or some sort of project management system is highly recommended!
 
 
 ---
@@ -129,5 +127,5 @@
 ---
 guidelines:
 https://docs.google.com/document/d/1MkHIyCMH7UqThduemqcy4Fx1f4VhuyvhZMUuHjrsuig/edit?usp=sharing
-submisisons: 
+submisisons:
 http://goo.gl/forms/rkIQy8vSH01ty2K53

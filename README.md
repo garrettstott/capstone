@@ -84,7 +84,6 @@ Team lead, technical lead, styling lead, etc. Using Trello or some sort of proje
 :poop:
 
 # LINKS
-guidelines:
+Guidelines:
 https://docs.google.com/document/d/1MkHIyCMH7UqThduemqcy4Fx1f4VhuyvhZMUuHjrsuig/edit?usp=sharing
-submisisons:
-http://goo.gl/forms/rkIQy8vSH01ty2K53
+Shttp://goo.gl/forms/rkIQy8vSH01ty2K53

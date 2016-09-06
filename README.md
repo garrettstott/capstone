@@ -1,5 +1,5 @@
 #CAPSTONE STUFF
-#:womans_hat::moyai::womans_hat::moyai:
+#:womans_hat::moyai::womans_hat::moyai::womans_hat::moyai::womans_hat::moyai:
 
 ---
 
@@ -27,7 +27,7 @@ Too big, and things get hard to manage, people don't do their part.  Too small a
 
 ---
 
-# TIMELINE:hourglass:
+# TIMELINE :hourglass:
 
 ## 4 weeks
 

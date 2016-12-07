@@ -45,7 +45,7 @@ Towards the end of week 10, TAs will break your project so you can fix bugs duri
 
 Bug fixes from TA breakage, presentation prep, deploys, etc.
 
-## Launch Day is Thursday, October 13th :tada:
+## Launch Day is Thursday, January 12th :tada:
 
 ---
 
